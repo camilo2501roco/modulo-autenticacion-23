@@ -1,0 +1,27 @@
+{
+  "name": "modulo-autenticacion-23",
+  "version": "1.0.0",
+  "description": "Digitalizar el proceso manual de control de asistencia del Colegio San José (1.200 estudiantes). B\r uscamos eliminar el uso de planillas físicas, reducir errores humanos y permitir que la coordinación académica acceda a alertas de ausentismo en tiempo real para prevenir la deserción escolar.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilo2501roco/modulo-autenticacion-23.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilo2501roco/modulo-autenticacion-23/issues"
+  },
+  "homepage": "https://github.com/camilo2501roco/modulo-autenticacion-23#readme",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.5",
+    "vite": "^8.0.1",
+    "vue": "^3.5.30"
+  }
+}
